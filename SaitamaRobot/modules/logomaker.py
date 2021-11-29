@@ -11,9 +11,9 @@ from io import BytesIO
 from requests import get
 from telethon.tl.types import InputMessagesFilterPhotos
 
-from EmiliaAnimeBot import OWNER_ID, SUPPORT_CHAT
-from EmiliaAnimeBot.events import register
-from EmiliaAnimeBot import telethn
+from SaitamaRobot import OWNER_ID, SUPPORT_CHAT
+from SaitamaRobot.events import register
+from SaitamaRobot import telethn
 from PIL import Image, ImageDraw, ImageFont
 
 
