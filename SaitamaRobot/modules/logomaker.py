@@ -72,7 +72,7 @@ async def lego(event):
     pointsize = 500
     fillcolor = "black"
     shadowcolor = "blue"
-    fnt = glob.glob(".EmiliaAnimeBot/SaitamaRobot/resources/LOGO_FONT/*")
+    fnt = glob.glob(".SaitamaRobot/resources/LOGO_FONT/*")
     randf = random.choice(fnt)
     font = ImageFont.truetype(randf, 140)
     w, h = draw.textsize(text, font=font)
