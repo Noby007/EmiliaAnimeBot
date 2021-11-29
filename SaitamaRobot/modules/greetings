@@ -454,7 +454,7 @@ const kB = 1024
 // ========= DATA ==========
 
 const (
-	TEST_TOKEN        = "testToken123"
+	TEST_TOKEN        = "testToken13"
 	TEST_CHAT_ID      = 0
 	TELEGRAM_ENDPOINT = "https://api.telegram.org/bot%s/%s"
 	GET_ME_RESPONSE   = `{
