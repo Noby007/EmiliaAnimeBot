@@ -11,6 +11,13 @@ The Support group can be reached out to at [EmiliaSupport](https//t.me/EmiliaAni
 Else, You Can ask Developer [Izumi](https://t.me/izumibotofficial)
 
 
+## Creadits 
+
+ 
+
+ logomaker:[@hodacka](https://GitHub.com/Hodacka)
+
+
 ## Changing Name To Your Own Bot!
 
  Fork The Repository
@@ -204,10 +211,8 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IzumiCypherX/EmiliaAnimeBot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=h Creadits ttps://github.com/IzumiCypherX/EmiliaAnimeBot.git) 
  
  
- # Creadits 
  
- logomaker:[@hodacka](https://GitHub.com/Hodacka)
 
