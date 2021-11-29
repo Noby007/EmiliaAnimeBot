@@ -71,27 +71,27 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-              text="📈 Bot Support", url="https://t.me/ndpowersupportgroup"),
+              text="📈 Bot Support", url="https://t.me/ndpowergroup"),
      
     ],
     [
         InlineKeyboardButton(
-            text="📮 Update Channel", url="https://t.me/nobydayaninfo"),
+            text="📮 Anime", url="https://t.me/nobydayaninfo"),
     ],
     [
         InlineKeyboardButton(
-            text="📑 Logs", url="https://t.me/ndpowerbanlist"),
+            text="📑 Logs", url="https://t.me/ndpowerlogs"),
           
 
 
 InlineKeyboardButton(
-            text="🐱 Spam group", url="https://t.me/joinchat/UYawrbDUQ5slNS19"
+            text="🐱 Anime chat", url="https://t.me/joinchat/UYawrbDUQ5slNS19"
         ),
 
     ],
     [
         InlineKeyboardButton(
-                    text="💓Yt Link💓", url="https://youtube.com/c/nobydayaninfo"
+                    text="💓support💓", url="https://youtube.com/c/nobydayaninfo"
         ),
     ],
 ]
