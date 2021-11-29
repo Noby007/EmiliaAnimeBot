@@ -205,4 +205,9 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IzumiCypherX/EmiliaAnimeBot.git) 
+ 
+ 
+ # Creadits 
+ 
+ logomaker:[@hodacka](https://GitHub.com/Hodacka)
 
