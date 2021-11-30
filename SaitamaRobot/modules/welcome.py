@@ -171,7 +171,7 @@ def new_member(update: Update, context: CallbackContext):
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Everyone is pro , Until The Real Pro Noby dayan enters * the group 🔥",
+                    "https://telegra.ph/file/b8b862dc1efe00c947953.mp4",
                     reply_to_message_id=reply)
                 welcome_log = (f"{html.escape(chat.title)}\n"
                                f"#USER_JOINED\n"
@@ -205,14 +205,14 @@ def new_member(update: Update, context: CallbackContext):
             # Welcome Whitelisted
             elif new_mem.id in TIGERS:
                 update.effective_message.reply_text(
-                    "OH YEAH! A Chunin just joined!",
+                    "https://telegra.ph/file/b8b862dc1efe00c947953.mp4",
                     reply_to_message_id=reply)
                 continue
 
             # Welcome Tigers
             elif new_mem.id in WOLVES:
                 update.effective_message.reply_text(
-                    "JEZZ! I wasn't expecting a Shinobi to come here!",
+                    "https://telegra.ph/file/b8b862dc1efe00c947953.mp4",
                     reply_to_message_id=reply)
                 continue
 
