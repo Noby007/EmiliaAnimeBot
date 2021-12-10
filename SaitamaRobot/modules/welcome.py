@@ -170,7 +170,7 @@ def new_member(update: Update, context: CallbackContext):
 
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
-                update.effective_message.reply_text(
+                update.effective_message.reply_animation(
                     "https://telegra.ph/file/b8b862dc1efe00c947953.mp4",
                     reply_to_message_id=reply)
                 welcome_log = (f"{html.escape(chat.title)}\n"
