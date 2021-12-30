@@ -68,3 +68,4 @@ PyDictionary==2.0.1
 youtube-search-python
 secureme
 pytube
+git+https://github.com/asmsafone/downloader
